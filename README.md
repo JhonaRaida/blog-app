@@ -3,6 +3,7 @@
 Evaluación Unidad 3 · Caso práctico: diseño de blog.
 
 Equipo:
+
 Joathan Uriel 
 
 David Sosa
