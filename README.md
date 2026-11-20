@@ -4,9 +4,13 @@ Evaluación Unidad 3 · Caso práctico: diseño de blog.
 
 Equipo:
 Joathan Uriel 
+
 David Sosa
+
 Jose Vidal
+
 Jose Ismael
+
 Alejandro Ramirez
 
 App móvil de blog: los usuarios se registran, inician sesión, publican entradas, leen las de otros y comentan. Incluye dos funciones opcionales:
